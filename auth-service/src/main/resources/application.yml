@@ -1,0 +1,20 @@
+server:
+  port: 8082
+
+spring:
+  application:
+    name: auth-service
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: auth-service-db
+
+jwt:
+  secret: de9946c9
+  expiration: 3600000
+
+logging:
+  level:
+    root: INFO
+    com.jc.authservice: DEBUG

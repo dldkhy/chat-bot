@@ -1,0 +1,9 @@
+/Volumes/D storage/Ai Customer Service Robot/chat-service/src/main/java/com/jc/chatservice/ChatServiceApplication.java
+/Volumes/D storage/Ai Customer Service Robot/chat-service/src/main/java/com/jc/chatservice/client/LlmClient.java
+/Volumes/D storage/Ai Customer Service Robot/chat-service/src/main/java/com/jc/chatservice/controller/ChatController.java
+/Volumes/D storage/Ai Customer Service Robot/chat-service/src/main/java/com/jc/chatservice/model/Message.java
+/Volumes/D storage/Ai Customer Service Robot/chat-service/src/main/java/com/jc/chatservice/model/OllamaResponse.java
+/Volumes/D storage/Ai Customer Service Robot/chat-service/src/main/java/com/jc/chatservice/model/Session.java
+/Volumes/D storage/Ai Customer Service Robot/chat-service/src/main/java/com/jc/chatservice/repository/MessageRepository.java
+/Volumes/D storage/Ai Customer Service Robot/chat-service/src/main/java/com/jc/chatservice/repository/SessionRepository.java
+/Volumes/D storage/Ai Customer Service Robot/chat-service/src/main/java/com/jc/chatservice/service/ChatService.java
